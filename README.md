@@ -19,10 +19,8 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/guiyukioms/guiyukioms/assets/161094916/db4056ce-e78b-4578-bc45-60e49322325d" alt="Imagem">
 </p>
-
----
 
 ## 💡 Skills
 <!-- Skills: Programming Languages -->
