@@ -8,8 +8,8 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;Sobre Mim :
 
-- 💻 Estou em busca da minha primeira oportunidade de emprego como programador.
-- 🌱 Estudando Javascript.
+- 💻 Atualmente estou cursando Engenharia de Software.
+- 📚 Aprimorando habilidades em JavaScript e tecnologias relacionadas.
 - 🛠️ Veja meu portifólio em: [guilhermeyukio.com.br](https://guilhermeyukio.com.br/)
 - 📫 Entre em contato pelo e-mail: guiyukioms@gmail.com.
 ---
