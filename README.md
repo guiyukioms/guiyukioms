@@ -10,16 +10,12 @@
 
 - 💻 Atualmente estou cursando Engenharia de Software.
 - 📚 Aprimorando habilidades em JavaScript e tecnologias relacionadas.
-- 🛠️ Veja meu portfólio desenvolvido com React e React-Bootstrap: <a href="https://guilhermeyukio.com.br/" target="_blank">guilhermeyukio.com.br</a>
+- 🛠️ Veja meu portfólio desenvolvido com React e React-Bootstrap: [guilhermeyukio.com.br](https://guilhermeyukio.com.br/)
 - 📫 Entre em contato pelo e-mail: guiyukioms@gmail.com.
 ---
 
 <!-- Links -->
-<a href="https://www.linkedin.com/in/guilherme-yukio-a215701a3/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="120">
-</a>
-
-&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-yukio-a215701a3/)
 
 <!-- GIF -->
 <p align="left">
@@ -56,10 +52,10 @@
 
 ### Projetos em Produção:
 
-- <a href="https://github.com/guiyukioms/gyms-task-manager" target="_blank">Task Manager (Código Fonte)</a>. Ou veja o projeto rodando em: <a href="https://guiyukioms.github.io/gyms-task-manager/" target="_blank">Ver ao vivo</a>
-- <a href="https://github.com/guiyukioms/gyms-password-generator" target="_blank">Password Generator (Código Fonte)</a>. Ou veja o projeto rodando em: <a href="https://guiyukioms.github.io/gyms-password-generator/" target="_blank">Ver ao vivo</a>
+- [Task Manager (Código Fonte)](https://github.com/guiyukioms/gyms-task-manager). Ou veja o projeto rodando em: [Ver ao vivo](https://guiyukioms.github.io/gyms-task-manager/)
+- [Password Generator (Código Fonte)](https://github.com/guiyukioms/gyms-password-generator). Ou veja o projeto rodando em: [Ver ao vivo](https://guiyukioms.github.io/gyms-password-generator/)
 
 ### Projetos em Desenvolvimento ou Inativos:
 
-- <a href="https://github.com/guiyukioms/my_weather_app" target="_blank">Weather App (Código Fonte)</a>
-- <a href="https://github.com/guiyukioms/gyms-form-server" target="_blank">Contact Form API (Código Fonte)</a>
+- [Weather App (Código Fonte)](https://github.com/guiyukioms/my_weather_app)
+- [Contact Form API (Código Fonte)](https://github.com/guiyukioms/gyms-form-server)
