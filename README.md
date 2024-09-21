@@ -10,18 +10,21 @@
 
 - 💻 Atualmente estou cursando Engenharia de Software.
 - 📚 Aprimorando habilidades em JavaScript e tecnologias relacionadas.
-- 🛠️ Veja meu portifólio desenvolvido com React e Ract-Bootstrap: [guilhermeyukio.com.br](https://guilhermeyukio.com.br/)
+- 🛠️ Veja meu portfólio desenvolvido com React e React-Bootstrap: <a href="https://guilhermeyukio.com.br/" target="_blank">guilhermeyukio.com.br</a>
 - 📫 Entre em contato pelo e-mail: guiyukioms@gmail.com.
 ---
 
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-yukio-a215701a3/)
+<a href="https://www.linkedin.com/in/guilherme-yukio-a215701a3/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="120">
+</a>
+
+&nbsp;
 
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/guiyukioms/guiyukioms/assets/161094916/db4056ce-e78b-4578-bc45-60e49322325d" alt="Imagem">
 </p>
-<br>
 
 ## 💡 Skills
 <!-- Skills: Programming Languages -->
@@ -33,6 +36,7 @@
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
+
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
@@ -52,10 +56,10 @@
 
 ### Projetos em Produção:
 
-- [Task Manager (Código Fonte)](https://github.com/guiyukioms/gyms-task-manager). Ou veja o projeto rodando em: [Ver ao vivo](https://guiyukioms.github.io/gyms-task-manager/)
-- [Password Generator (Código Fonte)](https://github.com/guiyukioms/gyms-password-generator). Ou veja o projeto rodando em: [Ver ao vivo](https://guiyukioms.github.io/gyms-password-generator/)
+- <a href="https://github.com/guiyukioms/gyms-task-manager" target="_blank">Task Manager (Código Fonte)</a>. Ou veja o projeto rodando em: <a href="https://guiyukioms.github.io/gyms-task-manager/" target="_blank">Ver ao vivo</a>
+- <a href="https://github.com/guiyukioms/gyms-password-generator" target="_blank">Password Generator (Código Fonte)</a>. Ou veja o projeto rodando em: <a href="https://guiyukioms.github.io/gyms-password-generator/" target="_blank">Ver ao vivo</a>
 
 ### Projetos em Desenvolvimento ou Inativos:
 
-- [Weather App (Código Fonte)](https://github.com/guiyukioms/my_weather_app)
-- [Contact Form API (Código Fonte)](https://github.com/guiyukioms/gyms-form-server)
+- <a href="https://github.com/guiyukioms/my_weather_app" target="_blank">Weather App (Código Fonte)</a>
+- <a href="https://github.com/guiyukioms/gyms-form-server" target="_blank">Contact Form API (Código Fonte)</a>
