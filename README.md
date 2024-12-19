@@ -24,7 +24,7 @@
 
 ## 💡 Skills
 <!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
+  <div>
     <h3>Programming Languages</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
       <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
