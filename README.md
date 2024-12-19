@@ -6,6 +6,10 @@
 
  </div>
 
+ <!-- Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-yukio-a215701a3/)
+
+
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;Sobre Mim :
 
 - 💻 Atualmente estou cursando Engenharia de Software.
@@ -13,14 +17,6 @@
 - 🛠️ Veja meu portfólio desenvolvido com React e React-Bootstrap: [guilhermeyukio.com.br](https://guilhermeyukio.com.br/)
 - 📫 Entre em contato pelo e-mail: guiyukioms@gmail.com.
 ---
-
-<!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-yukio-a215701a3/)
-
-<!-- GIF -->
-<div align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc283ZTJjanNqcWJ2YjM0N3cwcmNwbjJiZW94Y2pxc2NlenNweHRwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DsOZ4MhloWZxeXvRe1/giphy.webp" alt="Welcome GIF" height="350" width="1050">
-</div>
 
 ## 💡 Skills
 <!-- Skills: Programming Languages -->
