@@ -16,7 +16,8 @@
 - 📚 Aprimorando habilidades em JavaScript e tecnologias relacionadas.
 - 🛠️ Veja meu portfólio desenvolvido com React e React-Bootstrap: [guilhermeyukio.com.br](https://guilhermeyukio.com.br/)
 - 📫 Entre em contato pelo e-mail: guiyukioms@gmail.com.
----
+
+<br />
 
 ## 💡 Skills
 <!-- Skills: Programming Languages -->
@@ -40,12 +41,7 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
----
-
-## 🔥 Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiyukioms&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
+<br />
 
 ## 🚀 Projetos
 
@@ -59,3 +55,8 @@
 
 - [Weather App (Código Fonte)](https://github.com/guiyukioms/my_weather_app)
 - [Contact Form API (Código Fonte)](https://github.com/guiyukioms/gyms-form-server)
+
+<br />
+
+## 🔥 Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiyukioms&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
