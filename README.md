@@ -19,7 +19,7 @@
 
 <!-- GIF -->
 <div align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE3b284Y212NW9vZXg1YzRxdGZneGs3NDFlam1yZ2Z3cGFwaGg3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/09Z52rkIsAgRuIKkO6/giphy.webp" alt="Welcome GIF" height="300" width="1100">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJzYjB2Nms0MTk3b2Y4ZHl4ampqMjZtaWNweGs0NmdxbW43OWcxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHF6VkFM4uKeRDa/giphy.webp" alt="Welcome GIF" height="280" width="1100">
 </div>
 
 ## 💡 Skills
