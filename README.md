@@ -18,27 +18,50 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-yukio-a215701a3/)
 
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/guiyukioms/guiyukioms/assets/161094916/db4056ce-e78b-4578-bc45-60e49322325d" alt="Imagem">
-</p>
+<div align="left">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE3b284Y212NW9vZXg1YzRxdGZneGs3NDFlam1yZ2Z3cGFwaGg3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/09Z52rkIsAgRuIKkO6/giphy.webp" alt="Welcome GIF" height="300" width="1100">
+</div>
 
 ## 💡 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </a>
+    <a href="https://reactjs.org" target="_blank">
+      <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    </a>
+    <a href="https://tailwindcss.com" target="_blank">
+      <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+    </a>
+    <a href="https://nodejs.org" target="_blank">
+      <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
+    </a>
+    <a href="https://www.python.org" target="_blank">
+      <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </a>
   </div>
 
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+      <img align="center" alt="Docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    </a>
   </div>
 
 ---
@@ -52,6 +75,7 @@
 
 ### Projetos em Produção:
 
+- [Awwwards Website (Código Fonte)](https://github.com/guiyukioms/pp-fe-react-zentry-clone). Ou veja o projeto rodando em: [Ver ao vivo](https://zentryclone.guilhermeyukio.com.br/)
 - [Task Manager (Código Fonte)](https://github.com/guiyukioms/gyms-task-manager). Ou veja o projeto rodando em: [Ver ao vivo](https://guiyukioms.github.io/gyms-task-manager/)
 - [Password Generator (Código Fonte)](https://github.com/guiyukioms/gyms-password-generator). Ou veja o projeto rodando em: [Ver ao vivo](https://guiyukioms.github.io/gyms-password-generator/)
 
