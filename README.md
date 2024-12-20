@@ -7,15 +7,23 @@
  </div>
 
  <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-yukio-a215701a3/)
+<div align="left">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-yukio-a215701a3/)
+  [![Email](https://img.shields.io/badge/Email-FF6600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guiyukioms@gmail.com)
+  
+</div>
+
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;Sobre Mim :
 
-- 💻 Atualmente estou cursando Engenharia de Software.
+Estudante de Engenharia de Software, curioso por natureza. Nos momentos livres gosto de me desafiar em jogos de estratégia, especialmente pelos desafios de planejamento e criação. Ocasionalmente, me arrisco no violão, deixando a música trazer equilíbrio aos meus dias.
+
+- 🌍 São Paulo - Brasil.
+- 💻 Atualmente cursando Bacharel em Engenharia de Software.
 - 📚 Aprimorando habilidades em JavaScript e tecnologias relacionadas.
 - 🛠️ Veja meu portfólio desenvolvido com React e React-Bootstrap: [guilhermeyukio.com.br](https://guilhermeyukio.com.br/)
-- 📫 Entre em contato pelo e-mail: guiyukioms@gmail.com.
 
 <br />
 
@@ -58,5 +66,10 @@
 
 <br />
 
+<!-- Status graphs -->
 ## 🔥 Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiyukioms&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guiyukioms&theme=tokyonight&show_icons=true&hide=stars,contribs&show=prs_merged,prs_merged_percentage&hide_rank=true" style="height: 200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiyukioms&layout=compact&theme=tokyonight" style="height: 200px"/>
+</div>
