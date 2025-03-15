@@ -23,7 +23,7 @@ Estudante de Engenharia de Software, curioso por natureza. Nos momentos livres g
 - 🌍 São Paulo - Brasil.
 - 💻 Atualmente cursando Bacharel em Engenharia de Software.
 - 📚 Aprimorando habilidades em JavaScript e tecnologias relacionadas.
-- 🛠️ Veja meu portfólio desenvolvido com React e React-Bootstrap: [guilhermeyukio.com.br](https://guilhermeyukio.com.br/)
+- 🛠️ Veja meu portfólio desenvolvido com React e Javascrip: [guilhermeyukio.com.br](https://guilhermeyukio.com.br/)
 
 <br />
 
