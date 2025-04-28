@@ -58,7 +58,7 @@ Estudante de Engenharia de Software, curioso por natureza. Nos momentos livres g
 
 ### Projetos em Produção:
 
-- [Awwwards Website (Código Fonte)](https://github.com/guiyukioms/pp-fe-react-zentry-clone). Ou veja o projeto rodando em: [Ver ao vivo](https://zentryclone.guilhermeyukio.com.br/)
+- [Awwwards Website (Código Fonte)](https://github.com/guiyukioms/pp-fe-react-zentry-clone). Ou veja o projeto rodando em: [Ver ao vivo](https://stalwart-churros-632934.netlify.app/)
 - [Task Manager (Código Fonte)](https://github.com/guiyukioms/gyms-task-manager). Ou veja o projeto rodando em: [Ver ao vivo](https://guiyukioms.github.io/gyms-task-manager/)
 - [Password Generator (Código Fonte)](https://github.com/guiyukioms/gyms-password-generator). Ou veja o projeto rodando em: [Ver ao vivo](https://guiyukioms.github.io/gyms-password-generator/)
 
