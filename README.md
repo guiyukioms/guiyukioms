@@ -23,7 +23,7 @@ Estudante de Engenharia de Software, curioso por natureza. Nos momentos livres g
 - 🌍 São Paulo - Brasil.
 - 💻 Atualmente cursando Bacharel em Engenharia de Software.
 - 📚 Aprimorando habilidades em JavaScript e tecnologias relacionadas.
-- 🛠️ Veja meu portfólio desenvolvido com ReactJS: [guilhermeyukio.com.br](https://earnest-dieffenbachia-d36b4f.netlify.app/)
+- 🛠️ Veja meu portfólio desenvolvido com React JS: [guilhermeyukio.com.br](https://earnest-dieffenbachia-d36b4f.netlify.app/)
 
 <br />
 
