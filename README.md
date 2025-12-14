@@ -1,10 +1,9 @@
 <div align="center">
   <h1>
-    Olá, Eu Sou o Guilherme!
+    Hi, I'm Guilherme!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-
- </div>
+</div>
 
  <!-- Links -->
 <div align="left">
@@ -14,23 +13,22 @@
   
 </div>
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me:
 
+I’m a software engineering student from Brazil who likes building things, breaking them, and rebuilding them better. <br>
+Most of my time goes into learning how real-world systems work, writing maintainable code, and exploring new technologies.
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;Sobre Mim :
+This profile is a mix of experiments, projects, and things I’ve learned along the way.
 
-Estudante de Engenharia de Software, curioso por natureza. Nos momentos livres gosto de me desafiar em jogos de estratégia, especialmente pelos desafios de planejamento e criação. Ocasionalmente, me arrisco no violão, deixando a música trazer equilíbrio aos meus dias.
+🌐 Check out my personal website (built with React):  
+👉 [guilhermeyukio.com.br](https://earnest-dieffenbachia-d36b4f.netlify.app/)
 
-- 🌍 São Paulo - Brasil.
-- 💻 Atualmente cursando Bacharel em Engenharia de Software.
-- 📚 Aprimorando habilidades em JavaScript e tecnologias relacionadas.
-- 🛠️ Veja meu portfólio desenvolvido com React JS: [guilhermeyukio.com.br](https://earnest-dieffenbachia-d36b4f.netlify.app/)
-
-<br />
+<br>
 
 ## 💡 Skills
 <!-- Skills: Programming Languages, Frameworks e Libraries -->
 <div>
-  <h3>Tecnologias</h3>
+  <h3>Technologies</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -46,6 +44,7 @@ Estudante de Engenharia de Software, curioso por natureza. Nos momentos livres g
 <!-- Skills: Tools -->
 <div>
   <h3>Tools</h3>
+  <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -54,18 +53,14 @@ Estudante de Engenharia de Software, curioso por natureza. Nos momentos livres g
 
 <br />
 
-## 🚀 Projetos
+## 🎓 Certifications
 
-### Projetos em Produção:
+### Microsoft Certifications
+- **AZ-900** — Microsoft Azure Fundamentals
+- **DP-900** — Microsoft Azure Data Fundamentals
+- **PL-300** — Microsoft Power BI Data Analyst Associate
 
-- [Awwwards Website (Código Fonte)](https://github.com/guiyukioms/pp-fe-react-zentry-clone). Ou veja o projeto rodando em: [Ver ao vivo](https://stalwart-churros-632934.netlify.app/)
-- [Task Manager (Código Fonte)](https://github.com/guiyukioms/gyms-task-manager). Ou veja o projeto rodando em: [Ver ao vivo](https://guiyukioms.github.io/gyms-task-manager/)
-- [Password Generator (Código Fonte)](https://github.com/guiyukioms/gyms-password-generator). Ou veja o projeto rodando em: [Ver ao vivo](https://guiyukioms.github.io/gyms-password-generator/)
-
-### Projetos em Desenvolvimento ou Inativos:
-
-- [Weather App (Código Fonte)](https://github.com/guiyukioms/my_weather_app)
-- [Contact Form API (Código Fonte)](https://github.com/guiyukioms/gyms-form-server)
+🔗 See full certification details on [LinkedIn](https://www.linkedin.com/in/guilherme-yukio-a215701a3/)
 
 <br />
 
