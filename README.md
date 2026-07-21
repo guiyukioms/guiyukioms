@@ -26,7 +26,7 @@
 ---
 
   <!-- Dynamic Typing SVG with Greeting & Professional Titles -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Yukio!;Backend+%26+Systems+Developer;Software+Engineer+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi%2C+My+name+is+Guilherme+Yukio!;Backend+%26+Systems+Developer;Software+Engineer+Student" alt="Typing SVG" />
 </div>
 
 ---
